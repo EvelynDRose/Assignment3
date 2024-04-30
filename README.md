@@ -16,6 +16,7 @@ This code is supposed to create a dataset using ChatGPT 3 Turbo. It used the bbc
 
 ### Datasets
 - Download the BBC news dataset at (https://www.kaggle.com/datasets/alfathterry/bbc-full-text-document-classification)
+- The new dataset is created using one of the files in this repository (Assignment3_create_dataset.py). I have also included the new dataset in the repo aswall.
 
 ### Reproducibility
 Run the code using python 3 in the order of Assignment3_create_dataset.py, Assignment3_train_model.py, Assignment3_eval_dataset.py,
