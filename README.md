@@ -29,7 +29,7 @@ Base Llama model
 | My dataset  | facebook/opt_350m | 0.957427 |  0.951963 |    0.994605 |
 | Combind     | facebook/opt_350m | 0.91491  |  0.934584 |    0.995266 |
 
-As we can see from the model evaluations, the model that was fine-tuned with just my dataset had the highest preformance. This is because it didnt have any other information included while training the model. And the worst preform model, which is the combined dataset resulted in that because there was additional samples provided giving the model more varity to its generations.
+As we can see from the model evaluations, the model that was fine-tuned with just my dataset had the highest preformance. This is because it didnt have any other information included while training the model. And the worst preform model, which is the combined dataset resulted in that because there was additional samples provided giving the model more varity to its generations. The original model had a high preformance as well, this is probably due to how the model was initial trained.
 
 
 ## References  
