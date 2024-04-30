@@ -26,7 +26,7 @@ Base Llama model
 | ----------- | ----------------- | -------- | --------- | ----------- |
 | Original    | facebook/opt_350m | 0.942543 |  0.946798 |    0.992679 |
 | My dataset  | facebook/opt_350m | 0.957427 |  0.951963 |    0.994605 |
-| Original    | facebook/opt_350m | 0.91491  |  0.934584 |    0.995266 |
+| Combind     | facebook/opt_350m | 0.91491  |  0.934584 |    0.995266 |
 
 
 
